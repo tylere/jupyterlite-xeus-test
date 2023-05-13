@@ -4,4 +4,4 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - ipycanvas
-  - simplejson
+  - earthengine-api
