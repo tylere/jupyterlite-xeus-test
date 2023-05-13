@@ -4,4 +4,4 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - ipycanvas
-  - earthengine-api
+  - protobuf
